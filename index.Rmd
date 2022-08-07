@@ -1,6 +1,6 @@
 ---
 title: "Donatas' Website"
-image: "Images/arm.jpg"
+image: "Images/arm.png"
 links:
   - label: Inspiring lower limb prosthetics
     url: "https://www.youtube.com/watch?v=a2z8CE2vomY"
