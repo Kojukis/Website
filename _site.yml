@@ -3,6 +3,7 @@ title: "DonatasWebsite"
 description: |
   DonatasWebsite
 output_dir: "docs"
+theme: theme.css
 navbar:
   right:
     - text: "Home"

@@ -2,7 +2,7 @@
 title: "Donatas' Website"
 image: "Images/arm.png"
 links:
-  - label: Inspiring lower limb prosthetics
+  - label: Inspiring lower limb prosthetics 
     url: "https://www.youtube.com/watch?v=a2z8CE2vomY"
   - label: Inspiring upper limb prosthetics
     url: "https://www.youtube.com/watch?v=UOJ0lkr2SFc"
