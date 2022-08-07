@@ -1,46 +1,37 @@
 ---
 title: "Donatas' Website"
-image: "sigridur.jpg"
+image: "images/arm.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Inspiring lower limb prosthetics
+    url: "https://www.youtube.com/watch?v=a2z8CE2vomY"
+  - label: Inspiring upper limb prosthetics
+    url: "https://www.youtube.com/watch?v=UOJ0lkr2SFc"
+  - label: Inspiring surgeries
+    url: "https://www.youtube.com/watch?v=kaFiwC1xh2Y"    
 output:
   postcards::solana
 site: distill::distill_website  
 ---
  
-## Bio
+## Prosthetics design
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Prosthetics are always improving, especially lower limb prosthetics, as restoring ambulation is one of the most important processes in physical rehabilitation.
+Despite improvements in lower limb prosthetics, upper limb prosthetics have been left behind, still using simplistic pylley systems. 
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**BSc** | Prosthetics and Orthotics
 
-M.B.A. | August 2014 - June 2015
+University of Strathclyde | 2017-Currently
 
-**The Juilliard School** | New York, NY
 
-B.F.A. in Music Performance | August 2005 - May 2009
 
-## Experience
+**High School** | Julius Janonis Gymnasium
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+2013-2017, Siauliai, Lithuania
 
-**Cercle** | Producer | August 2018 - Present
+## Work experience
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**UNO Parks** | Instructor | Summer of 2018
 
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**Farm Worker** | My dad's farm for the last 4 years.

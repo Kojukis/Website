@@ -1,7 +1,8 @@
 ---
-title: "About this site"
+title: "Another page"
 description: |
   Some additional details about the website
+  
 ---
 
 ```{r setup, include=FALSE}
